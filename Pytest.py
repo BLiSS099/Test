@@ -16,4 +16,6 @@ dog.make_sound()
 
 dog.print_age()
 
-    
+cat = Testing("Meow", 20)
+
+baby = Testing("Helo", 5)
