@@ -19,6 +19,3 @@ dog.print_age()
 cat = Testing("Meow", 20)
 
 baby = Testing("Helo", 5)
-
-#new changes once again
-bird = Testing("Chirp Chirp", 10)
